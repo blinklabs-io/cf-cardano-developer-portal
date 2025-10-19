@@ -650,7 +650,7 @@ export const Showcases = [
     description: "A tool for tailing the Cardano blockchain and emitting events for each block and transaction seen, based on user configurable filters.",
     preview: require("./builder-tools/adder.png"),
     website: "https://github.com/blinklabs-io/adder",
-    getstarted: "https://pkg.go.dev/github.com/blinklabs-io/adder",
+    getstarted: "https://docs.blinklabs.io/guides/adder/001-adder",
     tags: ["cli", "golang", "chainindex"],
   },
   {
