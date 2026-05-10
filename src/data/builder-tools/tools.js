@@ -835,8 +835,8 @@ export const BuilderTools = [
       "Fully on-chain wallet-to-wallet messaging on Cardano. Send messages as NFTs directly to Cardano wallets with no backend.",
     preview: require("./images/matotam-cardano-org-screenshot-1280x720.png"),
     website: "https://www.matotam.io",
-    getstarted: "https://www.matotam.io",
-    tags: ["javascript", "typescript"],
+    getstarted: null,
+    tags: ["javascript", "typescript", "nft", "wallet", "messaging", "wallet-to-wallet"],
   },
   // ============================================================================
   // ADD YOUR BUILDER TOOL ABOVE THIS LINE
